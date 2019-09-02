@@ -6,7 +6,7 @@ crypto_algorithm_doc
 ├── README.md                                     
 ├── Hash                                    
 |   ├── MD2
-|	|	 └── The MD2 Message-Digest Algorithm.pdf                                      
+|   |    └── The MD2 Message-Digest Algorithm.pdf                                      
 |   ├── MD4  
 |	|	 └── The MD4 Message-Digest Algorithm.pdf                           
 |   ├── MD5   
