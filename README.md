@@ -14,6 +14,10 @@ crypto_algorithm_doc
 │   └── SM3
 |        ├── SM3密码杂凑算法.pdf     
 |        └── SM3 Cryptographic Hash Algorithm.pdf	                       
-├── RNG	 
+├── RNG
+|   ├── Hash_DRBG
+|   |    └── Recommendation for Random Number Generation Using Deterministic Random Bit Generators
+|   └──	HMAC_DRBG 
+|        └── Recommendation for Random Number Generation Using Deterministic Random Bit Generators
 └── END
 ```
