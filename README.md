@@ -4,7 +4,7 @@
 ```
 crypto_algorithm_doc
 ├── README.md                                     
-├── Hash                                    
+├── Hash (Hash Function)                                   
 |   ├── MD2
 |   |    └── The MD2 Message-Digest Algorithm.pdf                                      
 |   ├── MD4  
@@ -14,7 +14,7 @@ crypto_algorithm_doc
 │   └── SM3
 |        ├── SM3密码杂凑算法.pdf     
 |        └── SM3 Cryptographic Hash Algorithm.pdf	                       
-├── RNG
+├── RNG (Random Number Generation)
 |   ├── Hash_DRBG
 |   |    └── Recommendation for Random Number Generation Using Deterministic Random Bit Generators
 |   └──	HMAC_DRBG 
