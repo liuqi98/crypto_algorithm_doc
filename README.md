@@ -15,7 +15,7 @@ crypto_algorithm_doc
 │    │    └── US Secure Hash Algorithm 1(SHA1).pdf                           
 │    └── SM3
 │         ├── SM3密码杂凑算法.pdf     
-│         └── SM3 Cryptographic Hash Algorithm.pdf	                       
+│         └── SM3 Cryptographic Hash Algorithm.pdf 	                       
 ├── RNG (Random Number Generation)
 │    ├── Hash_DRBG
 │    │    └── Recommendation for Random Number Generation Using Deterministic Random Bit Generators.pdf
