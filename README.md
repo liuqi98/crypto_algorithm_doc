@@ -21,7 +21,7 @@ crypto_algorithm_doc
 │        └── Recommendation for Random Number Generation Using Deterministic Random Bit Generators.pdf
 ├── BlockCipher (Block Cipher)
 │   ├── SM4 
-│       ├── SM4分组密码算法.pdf
-│       └── SMS4 Encryption Algorithm for Wireless Networks.pdf
+│        ├── SM4分组密码算法.pdf
+│        └── SMS4 Encryption Algorithm for Wireless Networks.pdf
 └── END
 ```
