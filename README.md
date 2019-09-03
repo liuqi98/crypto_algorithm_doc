@@ -8,9 +8,11 @@ crypto_algorithm_doc
 │    ├── MD2
 │    │    └── The MD2 Message-Digest Algorithm.pdf                                      
 │    ├── MD4  
-│    │    └── The MD4 Message-Digest Algorithm.pdf                           
+│    │    └── The MD4 Message-Digest Algorithm.pdf                        
 │    ├── MD5   
-│    │    └── The MD5 Message-Digest Algorithm.pdf                                     
+│    │    └── The MD5 Message-Digest Algorithm.pdf
+│    ├── SHA1
+│    │    └── US Secure Hash Algorithm 1(SHA1).pdf                           
 │    └── SM3
 │         ├── SM3密码杂凑算法.pdf     
 │         └── SM3 Cryptographic Hash Algorithm.pdf	                       
